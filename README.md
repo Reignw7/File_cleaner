@@ -1,2 +1,2 @@
 # File_cleaner
-This program cleans a file removing all duplicate values
+This program cleans a file removing all numerical values, and special charactors
